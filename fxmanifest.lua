@@ -1,7 +1,7 @@
 fx_version 'adamant'
 
 author 'Gamings System | Gaming_heart#1754'
-description 'GS-AC: AntiCheat by Gaming_heart#1754 für RinoV'
+description 'GS-AC: AntiCheat by Gaming_heart#1754'
 version 'v1.1'
 
 game 'gta5'
